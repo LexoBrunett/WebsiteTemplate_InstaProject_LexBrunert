@@ -1,11 +1,10 @@
 body{
 	background: #bdbdbb;
 	margin: 0;
-	
-	
 }
 header{
 	background: white;
+	padding: 10px;
 }
 header h1{
 	margin: 0;
@@ -16,6 +15,13 @@ div.post{
 	
 }
 
+div.post img{
+	width: 100%;
+}
+
+div.post h2{
+	padding: 5px;
+}
 div.container{
 	margin: auto;
 	width: 600px;
