@@ -28,7 +28,6 @@ div.post .post-header div:first-child{
 div.post .post-header div:last-child{
 	display: inline-block;
 	width: 20%;
-	
 	text-align: right;
 	color: gray;
 }
