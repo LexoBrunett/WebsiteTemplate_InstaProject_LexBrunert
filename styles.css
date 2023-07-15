@@ -1,0 +1,22 @@
+body{
+	background: #bdbdbb;
+	margin: 0;
+	
+	
+}
+header{
+	background: white;
+}
+header h1{
+	margin: 0;
+}
+
+div.post{
+	background: white;
+	
+}
+
+div.container{
+	margin: auto;
+	width: 600px;
+}
